@@ -9,3 +9,11 @@ Dependencies
 Linux Ubuntu
 Windows 10 and above
 
+Author
+Alicia Natasha
+
+Version History
+0.1v
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
